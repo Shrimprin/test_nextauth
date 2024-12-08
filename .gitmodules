@@ -1,0 +1,3 @@
+[submodule "test-nextauth-frontend"]
+	path = test-nextauth-frontend
+	url = https://github.com/Shrimprin/test-nextauth-frontend
